@@ -18,7 +18,7 @@ public class BotGuildConfig {
 
   private String notificationChannelId;
 
-  public BotGuildConfig() { }
+  public BotGuildConfig() {}
 
   public String getNotificationChannelId() {
     return notificationChannelId;

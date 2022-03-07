@@ -2,3 +2,5 @@ spring:
   data:
     mongodb:
       uri: ${MONGODB_URI}
+siliciumbot:
+  token: ${SILICIUMBOT_TOKEN}
